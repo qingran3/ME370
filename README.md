@@ -13,8 +13,8 @@ This repository contains the CAD and analysis files for the **Motorized Vegetabl
 - **Safety Features:** Incorporated protective covers for sharp components and a lightweight, compact construction for easy handling and safety.
 
 ## Authors
-This project was designed and developed by:
+This project was designed and manufactured by:
 - **Qingran WU**
+- **Margaret DOBSON**
 - **Xuanyi JIN**
 - **Kevin RIFE**
-- **Margaret DOBSON**
