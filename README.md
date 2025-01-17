@@ -3,7 +3,7 @@
 ## Introduction
 This repository contains the CAD and analysis files for the **Motorized Vegetable Slicer** project completed during the ME 370 course at the University of Illinois Urbana-Champaign (UIUC).
 
-![Slicer](./Motorized vegetable slicer.png)
+![Slicer](./Motorized_Vegetable_Slicer.png)
 
 ## Features
 - **Human-Centered Design:** Focused on the needs of elderly individuals with dexterity challenges, ensuring ease of use, accessibility, and safety.
